@@ -1,0 +1,11 @@
+D:\tec.programacion\programacion II\2.1.pilas_colas\2.1.pilas_colas\bin\Debug\2.1.pilas_colas.exe.config
+D:\tec.programacion\programacion II\2.1.pilas_colas\2.1.pilas_colas\bin\Debug\2.1.pilas_colas.exe
+D:\tec.programacion\programacion II\2.1.pilas_colas\2.1.pilas_colas\bin\Debug\2.1.pilas_colas.pdb
+D:\tec.programacion\programacion II\2.1.pilas_colas\2.1.pilas_colas\obj\Debug\2.1.pilas_colas.csproj.AssemblyReference.cache
+D:\tec.programacion\programacion II\2.1.pilas_colas\2.1.pilas_colas\obj\Debug\2.1.pilas_colas.csproj.SuggestedBindingRedirects.cache
+D:\tec.programacion\programacion II\2.1.pilas_colas\2.1.pilas_colas\obj\Debug\_2._1.pilas_colas.Form1.resources
+D:\tec.programacion\programacion II\2.1.pilas_colas\2.1.pilas_colas\obj\Debug\_2._1.pilas_colas.Properties.Resources.resources
+D:\tec.programacion\programacion II\2.1.pilas_colas\2.1.pilas_colas\obj\Debug\2.1.pilas_colas.csproj.GenerateResource.cache
+D:\tec.programacion\programacion II\2.1.pilas_colas\2.1.pilas_colas\obj\Debug\2.1.pilas_colas.csproj.CoreCompileInputs.cache
+D:\tec.programacion\programacion II\2.1.pilas_colas\2.1.pilas_colas\obj\Debug\2.1.pilas_colas.exe
+D:\tec.programacion\programacion II\2.1.pilas_colas\2.1.pilas_colas\obj\Debug\2.1.pilas_colas.pdb
